@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error and its solution. The error occurs when a function expecting a number argument receives a string. The solution involves type checking or type casting to ensure that the function arguments are numbers.
